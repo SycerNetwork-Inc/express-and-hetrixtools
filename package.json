@@ -1,0 +1,29 @@
+{
+  "name": "hetrixtools-webhook",
+  "version": "1.0.0",
+  "description": "This is a call to the hetrixtools WebHook to display in express or JsonData format.",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "discord.js": "^13.6.0",
+    "express": "^4.17.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SycerNetwork-Inc/express-and-hetrixtools.git"
+  },
+  "keywords": [
+    "hetrixtools",
+    "webhook-hetrixtools"
+  ],
+  "author": "TinnerX",
+  "license": "AGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/SycerNetwork-Inc/express-and-hetrixtools/issues"
+  },
+  "homepage": "https://github.com/SycerNetwork-Inc/express-and-hetrixtools#readme"
+}
